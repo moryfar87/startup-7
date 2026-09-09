@@ -107,12 +107,11 @@
 
 ## 🛠️ Технологии (планируемые)
 
-*Здесь вы можете указать, на чём планируете разрабатывать систему. Например:*
 
-- **Backend:** Python / Django
-- **Frontend:** React / Vue.js
+- **Backend:** Python 
+- **Frontend:** React 
 - **База данных:** PostgreSQL
-- **Деплой:** Docker / GitHub Actions
+- **Деплой:** Docker 
 
 ---
 
