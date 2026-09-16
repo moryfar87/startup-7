@@ -115,5 +115,6 @@
 
 ---
 
-[photo_2026-09-16_18-38-48.pdf](https://github.com/user-attachments/files/32297100/photo_2026-09-16_18-38-48.pdf)
+<img width="1280" height="905" alt="photo_2026-09-16_18-38-48" src="https://github.com/user-attachments/assets/3d404448-7e67-4136-a0b8-9d6e94616278" />
+
 
