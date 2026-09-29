@@ -1,9 +1,1 @@
-# Навигация
-- [Неделя 1](https://github.com/moryfar87/startup-7/tree/1week)
-- [Неделя 2](https://github.com/moryfar87/startup-7/tree/2week)
-- [Неделя 3](https://github.com/moryfar87/startup-7/tree/3week)
-- [Неделя 4](https://github.com/moryfar87/startup-7/tree/4week)
-- [Неделя 5](https://github.com/moryfar87/startup-7/tree/5week)
-- [Неделя 6](https://github.com/moryfar87/startup-7/tree/6week)
-- [Неделя 7](https://github.com/moryfar87/startup-7/tree/7week)
-- [Неделя 8](https://github.com/moryfar87/startup-7/tree/8week)
+<img width="1557" height="700" alt="image" src="https://github.com/user-attachments/assets/731dfeb3-5863-41cc-a936-80389083fd6a" />
